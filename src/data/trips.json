@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/paris.jpg",
+        "alt": "Eiffel Tower",
+        "name": "Eiffel Tower, Paris",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/bali.jpg",
+        "alt": "Rice Terrace",
+        "name": "Rice Terrace, Bali",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/london.jpg",
+        "alt": "London",
+        "name": "Big Ben, London",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/turkey.jpg",
+        "alt": "Turkey",
+        "name": "Capadoccia balloons, Turkey",
+        "button": "View Destination"
+    }
+]
